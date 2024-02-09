@@ -54,5 +54,4 @@ Telkens wanneer op de afbeelding van één van de cards wordt geklikt wordt de b
 - Gebruik de classList.add en de classList.remove functie om de breedte en de achtergrondkleur van een progress-bar aan te passen.
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-qMHa7Mec5w?si=zZksVsdPqBcf0wUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qMHa7Mec5w?si=zZksVsdPqBcf0wUF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
