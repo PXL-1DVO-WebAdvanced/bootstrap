@@ -5,10 +5,9 @@ Maak gebruik van [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/i
 - Voor witruimtes (binnen & buiten het element) kan (en moet) je gebruik maken van de [spacing](https://getbootstrap.com/docs/5.0/utilities/spacing/#notation) utilities.
 
 <img alt="mobile" src="https://github.com/PXL-1DVO-WebAdvanced/bootstrap/blob/media/images/desktop-orig.png?raw=true">
+<img alt="mobile" src="https://github.com/PXL-1DVO-WebAdvanced/bootstrap/blob/media/images/mobile.png?raw=true" width="25%">
 
 ## Inhoud (HTML) & opmaak (CSS)
-<img alt="mobile" src="https://github.com/PXL-1DVO-WebAdvanced/bootstrap/blob/media/images/mobile.png?raw=true" style="float:right; margin-left: 5%" width="25%">
-
 
 #### Navigatie
 - Gebruik het nav structuurelement met de klasse [navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
