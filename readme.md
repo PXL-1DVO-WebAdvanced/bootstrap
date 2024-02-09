@@ -32,12 +32,14 @@ Maak gebruik van [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/i
 
 #### Main
 - Het main element bevat een [carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-controls) met 2 items: semester 1 + semester 2
+- De container die de inhoud bevat (carousel-inner) heeft een donkere achtergrond (bg-dark) en heeft bij voldoende witruimte binnen het element.
 - Elk carousel-item bevat een heading, een paragraaf en een flex-container met 3 [cards](https://getbootstrap.com/docs/5.0/components/card/#example)
 - Elke card heeft een image en een card-body met daarbinnen
     - een card-title
     - een card-text
     - een [progress-bar](https://getbootstrap.com/docs/5.0/components/progress/#backgrounds)
 - Elke card-body is een flex-container waarbij de child elementen onder elkaar staan. De card-text neemt alle vrije ruimte in beslag (flex: 1)
+- Responsiviteit: Bij een kleiner scherm worden de cards onder elkaar getoond
 
 #### Footer
 - De footer bevat een paragraaf met daarbinnen een mailto-koppeling naar pxl@grdvo.be
