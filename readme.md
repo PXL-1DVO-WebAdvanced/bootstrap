@@ -53,4 +53,4 @@ Telkens wanneer op de afbeelding van één van de cards wordt geklikt wordt de b
 - De inhoud van de progress-bar kan 5 verschillende waardes hebben: 0, 25, 50, 75 en 100. Elke waarde heeft een bijhorende kleur (zie app.js)
 - Gebruik de classList.add en de classList.remove functie om de breedte en de achtergrondkleur van een progress-bar aan te passen.
 
-[![Bootstrap](http://img.youtube.com/vi/-qMHa7Mec5w/0.jpg)](http://www.youtube.com/watch?v=-qMHa7Mec5w "Video Title"){:target="_blank"}
+<a href="http://www.youtube.com/watch?v=-qMHa7Mec5w" target="_blank">![Bootstrap](http://img.youtube.com/vi/-qMHa7Mec5w/0.jpg)]</a>
