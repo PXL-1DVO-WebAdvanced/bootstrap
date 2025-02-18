@@ -1,7 +1,7 @@
 # Bootstrap
 Maak gebruik van [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) om onderstaande pagina zo goed mogelijk na te bouwen.
 - Gebruik style.css ENKEL om de achtergrondafbeelding van de header in te stellen en de achtergrondkleur van bijhorende heading.
-- Maak zowel gebruik van de Bootstrap [componenten](https://getbootstrap.com/docs/5.3/components/alerts/) als van de [utilities](https://getbootstrap.com/docs/5.3/utilities/borders/)
+- Maak zowel gebruik van de Bootstrap [componenten](https://getbootstrap.com/docs/5.3/components/) als van de [utilities](https://getbootstrap.com/docs/5.3/utilities/)
 - Voor witruimtes (binnen & buiten het element) kan (en moet) je gebruik maken van de [spacing](https://getbootstrap.com/docs/5.3/utilities/spacing/#notation) utilities.
 - **Doe een 'git commit' en een 'git push' voor elk onderdeel!**
 
